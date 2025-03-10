@@ -6,6 +6,7 @@
 ```js
 let str = "Hello";
 console.log(str.charAt(1)); // "e"
+console.log(str[1]); // 'e'
 ```
 
 ### 2️⃣ `toUpperCase()` va `toLowerCase()` → Barcha harflarni katta yoki kichik harfga o‘tkazadi.
