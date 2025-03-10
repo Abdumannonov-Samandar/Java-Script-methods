@@ -1,4 +1,4 @@
-# JS Methods
+# JS Methods 
 
 ## 1. String Methods
 
